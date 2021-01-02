@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "dbshipping-d23d9": {
+      "hosting": {
+        "AngularFreeCode": [
+          "dbshipping-d23d9"
+        ]
+      }
+    }
+  }
+}
